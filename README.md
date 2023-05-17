@@ -2,7 +2,7 @@
 
 #### Name: [Miwa Ikeda]
 #### Student ID: [109703036]
-#### ShinyApps link: [<https://yourname.shinyapps.io/NCCU_DS2023_hw4_studentID/>]
+#### ShinyApps link: [https://miwa0419.shinyapps.io/NCCU_DS2023_hw4_109703036/]
 
 ## Description
 
